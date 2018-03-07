@@ -1,0 +1,7 @@
+{
+  "name": "Backend for U-tad Mobile MuliPlatforms development",
+  "description": "Endpoints needed for the lessons exercises",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
